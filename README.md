@@ -20,8 +20,6 @@ Use the repository as a home for project context and work, whether the task invo
 ├── logs/                     # Prompt history and concise work summaries
 ├── tasks/                    # Active and upcoming implementation plans
 │   └── implemented/           # Completed plans
-├── .vscode/                  # Optional editor and workspace settings
-└── .conda/                   # Optional local environment support
 ```
 
 ## How the Pieces Work Together
