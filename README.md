@@ -30,7 +30,6 @@ Use the repository as a home for project context and work, whether the task invo
 - **Plans** in `tasks/` capture active or upcoming implementation work. Move completed plans to `tasks/implemented/`.
 - **Outputs** in `outputs/` hold completed deliverables, such as reports, converted documents, and other requested files.
 - **Logs** in `logs/` preserve user prompts and concise summaries of completed work for continuity.
-- **Workspace support** in `.vscode/` and `.conda/` helps configure an editor or local environment; it is separate from the primary project content.
 
 ## A Typical Workflow
 
